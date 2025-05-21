@@ -1,0 +1,49 @@
+I/System.out(25223): quanth: onInviteIncoming - existsVideo: false
+I/System.out(25223): quanth: onInviteIncoming - videoCodecNames:
+I/System.out(25223): quanth: onInviteIncoming - Debug info:
+I/System.out(25223): quanth: caller = sip:10021@porsip.omicx.vn
+I/System.out(25223): quanth: callee = sip:10022@porsip.omicx.vn
+I/System.out(25223): quanth: sessionId = 1
+I/System.out(25223): quanth: existsVideo = false
+I/System.out(25223): quanth: sipMessage = INVITE sip:10022@14.232.214.119:56841 SIP/2.0
+I/System.out(25223): quanth: callState - INCOMING
+I/System.out(25223): quanth: Auto answering call with video preference: false
+I/System.out(25223): quanth: On auto answer call
+I/System.out(25223): quanth: callState - ANSWERED
+I/System.out(25223): quanth: onInviteIncoming X-Session-Id = 977406341591076864
+I/System.out(25223): quanth: onAudioDeviceChanged - EARPIECE
+I/System.out(25223): quanth: onAudioDeviceChanged - SPEAKER_PHONE
+I/System.out(25223): quanth: onInviteConnected
+I/System.out(25223): quanth: callState - CONNECTED
+I/System.out(25223): quanth: onAudioDeviceChanged - SPEAKER_PHONE
+I/System.out(25223): quanth: application.mConference = false
+I/System.out(25223): quanth: Video is not muted, showing local view
+I/System.out(25223): quanth: application.mConference = false
+I/System.out(25223): quanth: onMethodCall reInvite
+I/System.out(25223): quanth: reInvite currentLine: com.mpt.mpt_callkit.util.Session@65c9cc7
+I/System.out(25223): quanth: reInvite sessionID: 1
+I/System.out(25223): quanth: reInvite sipMessage: INVITE sip:10022@14.232.214.119:56841 SIP/2.0
+I/System.out(25223): quanth: SIP message Session-Id: 977406341591076864
+I/System.out(25223): quanth: reinviteSession - sendVideo(): 0
+I/System.out(25223): quanth: reinviteSession - updateCall(): 0
+I/System.out(25223): quanth: Successfully updated call with video for session: 977406341591076864
+I/System.out(25223): quanth: onMethodCall hangup
+I/System.out(25223): quanth: callState - CLOSED
+I/System.out(25223): quanth: lineName= line - 0: Hang up
+I/System.out(25223): quanth: onAudioDeviceChanged - SPEAKER_PHONE
+I/System.out(25223): quanth: onMethodCall Offline
+I/System.out(25223): quanth: UnregisterServer..
+I/System.out(25223): quanth: onStartCommand
+I/System.out(25223): quanth: service is doing unregisterToServer...
+I/System.out(25223): quanth: unregisterToServer
+I/System.out(25223): quanth: service unregisterToServer done
+I/System.out(25223): quanth: onMethodCall requestPermission
+I/System.out(25223): quanth: no need request permission
+I/System.out(25223): quanth: onDestroy called!
+I/System.out(25223): quanth: onMethodCall Login
+I/System.out(25223): quanth: RegisterServer..
+I/System.out(25223): quanth: PortSipService onCreate
+I/System.out(25223): quanth: onStartCommand
+I/System.out(25223): quanth: registerToServer - pushToken or appId is empty
+I/System.out(25223): quanth: onNetworkChange
+I/System.out(25223): quanth: onRegisterSuccess
